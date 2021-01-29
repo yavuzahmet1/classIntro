@@ -1,0 +1,13 @@
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\bin\Debug\netcoreapp3.1\classIntro.exe
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\bin\Debug\netcoreapp3.1\classIntro.deps.json
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\bin\Debug\netcoreapp3.1\classIntro.runtimeconfig.json
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\bin\Debug\netcoreapp3.1\classIntro.runtimeconfig.dev.json
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\bin\Debug\netcoreapp3.1\classIntro.dll
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\bin\Debug\netcoreapp3.1\classIntro.pdb
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\obj\Debug\netcoreapp3.1\classIntro.csprojAssemblyReference.cache
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\obj\Debug\netcoreapp3.1\classIntro.AssemblyInfoInputs.cache
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\obj\Debug\netcoreapp3.1\classIntro.AssemblyInfo.cs
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\obj\Debug\netcoreapp3.1\classIntro.csproj.CoreCompileInputs.cache
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\obj\Debug\netcoreapp3.1\classIntro.dll
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\obj\Debug\netcoreapp3.1\classIntro.pdb
+C:\Users\1yavu\Desktop\EnginHocaKamp\classIntro\obj\Debug\netcoreapp3.1\classIntro.genruntimeconfig.cache
